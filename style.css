@@ -1,13 +1,13 @@
 header{
     background-image: url(./img/pattern.png);
     background-color: cornflowerblue;
-    background-size: 20%;
-    display: block;
+    background-size: 30%;
+    height 200px;
+    margin: 0 auto;
 }
 .logo-booleaner{
-    width: 10%;
-    height: 10%;
-    bottom: 0;
+    margin-top: 50px;
+    padding-right: 800px;
 }
 .titolo-principale{
     font-family: Arial, Helvetica, sans-serif;
@@ -15,4 +15,7 @@ header{
 .grey-text{
     color: grey;
     opacity: 0.5;
+}
+main{
+    margin: 0 auto;
 }
